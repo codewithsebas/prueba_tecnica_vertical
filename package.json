@@ -1,0 +1,12 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Test tecnical",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --matchAll"
+  },
+  "author": "Sebastián Giraldo",
+  "license": "ISC"
+}
