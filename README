@@ -1,0 +1,9 @@
+Ejercicio:
+
+Escribir un algoritmo que imprima los número del 1 al 100,
+con la condición de que si el número a imprimir es múltiplo de 3,
+imprima el string “es multiplo de 3”,
+si es múltiplo de 5 imprima el string “es multiplo de 5” y si es múltiplo de ambos imprima “es multiplo de 3 y multiplo de 5”.
+
+
+Hint: puedes usar el operador módulo “%” para verificar la multiplicidad y template strings para el prompt.
