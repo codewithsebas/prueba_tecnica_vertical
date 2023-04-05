@@ -23,5 +23,3 @@ function num(numRecord) {
 } 
 
 num(101)
-
-module.exports = num;
